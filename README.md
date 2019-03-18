@@ -1,2 +1,0 @@
-# wx_springboot
-学习慕课网上的xiaongzepro的教程springBoot+myBatis搭建微信迷你小程序
